@@ -1,0 +1,19 @@
+body {
+    margin: 0px auto;
+}
+.login {
+    margin: 0px auto;
+    margin-top: 13%;
+}
+.login-form {
+    background: rgb(255, 255, 255);
+    border: 1px solid grey;
+    border-radius: 5%;
+    padding: 10% 10%;
+    width: 570px;
+    max-width: none;
+    box-sizing: border-box;
+}
+.form-group {
+    margin-top: 2%;
+}
